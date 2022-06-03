@@ -1,0 +1,34 @@
+.search-bar {
+    border: 2px solid orange;
+    border-radius: 50px;
+    height: 40px;
+}
+
+main {
+    background: rgb(238, 174, 202);
+    background: linear-gradient(180deg, rgba(238, 174, 202, 1) 0%, #eee 50%);
+    height: 100%;
+    padding: 10px;
+}
+
+* a{
+    text-decoration: none;
+    color: mediumvioletred;
+}
+
+.section-head-txt {
+    font-size: 32px;
+    font-weight: 500;
+    color: mediumvioletred;
+}
+
+
+.section-sm-txt {
+    font-size: 20px;
+    font-weight: 500;
+    color: mediumvioletred;
+}
+
+.section1Nested {
+    background-color: #fff;
+}
